@@ -1,1 +1,2 @@
-Data set and Data dictionary
+Download and unzip the telecom_churn_data.
+Data Dictionary conatians description of all the columns in presnet in the telecom_churn_data.
